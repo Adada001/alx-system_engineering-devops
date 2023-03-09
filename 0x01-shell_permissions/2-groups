@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(whoami) user.group 
+git jump groups
