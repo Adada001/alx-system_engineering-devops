@@ -1,2 +1,2 @@
 #!/bin/bash
-git jump groups
+echo groups $(whoami)
