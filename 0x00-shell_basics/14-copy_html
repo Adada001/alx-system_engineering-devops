@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -name "*.html" -type f -newer ../ -exec cp -u {} ../ \if
+find . -maxdepth 1 -name "*.html" -type  -newer ../ -exec cp -u {} ../ \if
