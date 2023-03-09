@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd $USER
+echo "The current user is: $(whoami)"
