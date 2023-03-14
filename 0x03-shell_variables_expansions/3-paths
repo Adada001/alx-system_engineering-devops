@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATHH | tr : ".\" | wc -l
+echo $PATHH | tr : ".\n" | wc -l
