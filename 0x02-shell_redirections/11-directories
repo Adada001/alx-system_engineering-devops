@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -tyoe f -name | wc -lRa
+find . -tyoe f -name | ls -lRa
