@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type -name | wc -lRa
+find . -type d -name | wc -l
